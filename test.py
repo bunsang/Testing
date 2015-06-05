@@ -1,6 +1,6 @@
 def print_me(me):
 	print me
 
-print_me("Hello World")
+print_me("World")
 
 
